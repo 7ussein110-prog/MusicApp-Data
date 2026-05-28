@@ -1,23 +1,22 @@
 [
-   {
+  {
     "title": "مبقتش مستغرب",
-    "url": "https://github.com/7ussein110-prog/MusicApp-Data/raw/refs/heads/main/mabaetsh.mp3"
+    "url": "mabaetsh.mp3"
   },
   {
     "title": "احمد عامر - بنك نوت",
-    "url": "https://github.com/7ussein110-prog/MusicApp-Data/raw/refs/heads/main/Ahmed_Amer_Bank%20not.mp3"
+    "url": "Ahmed_Amer_Bank not.mp3"
   },
   {
     "title": "زجزاج",
-    "url": "https://github.com/7ussein110-prog/MusicApp-Data/raw/refs/heads/main/Ahmed%20Amer%20-%20Zegzag.mp3"
-   },
-  {
-    "title": "كلها عتاوله بس ع الميديا",
-    "url": "https://github.com/7ussein110-prog/MusicApp-Data/raw/refs/heads/main/kolhaataola.mp3"
+    "url": "Ahmed Amer - Zegzag.mp3"
   },
   {
-    "title": "ااحنا الهيبه",
-    "url": "https://github.com/7ussein110-prog/MusicApp-Data/raw/refs/heads/main/ehna_elheba.mp3"
+    "title": "كلها عتاوله بس ع الميديا",
+    "url": "kolhaataola.mp3"
+  },
+  {
+    "title": "احنا الهيبه",
+    "url": "ehna_elheba.mp3"
   }
- 
 ]
